@@ -161,27 +161,15 @@ h2.section-title-heading{
 
 #overview{
     position: relative;
-    padding-bottom: 8rem;
-
+    padding-bottom: 2rem;
 }
 
-#overview::after{
-    content: '';
-    position: absolute;
-    background-color: #fafafa;
-    width: 100%;
-    height: 15%;
-    transform: skewY(-2deg);
-    transform-origin: bottom right;
-    bottom: -50px;
-    right: 0;
-    left: 0;
-}
+
 
 /* ========Project-Overview */
 
 #project-overview{
-    background-color: #fafafa;
+    background-color: #f6f6f6e8;
     padding-bottom: 6rem;
     margin-top: 3rem; 
 }
